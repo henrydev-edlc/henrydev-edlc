@@ -37,7 +37,7 @@
   - Transformación digital empresarial
   - Automatización de procesos
 - 📫 **Contacto profesional**: henrydev.edlc@gmail.com
-- 🌐 **Portafolio completo**: [enlace a tu portafolio personal]
+- 🌐 **Portafolio completo**: https://github.com/henrydev-edlc/henrydev-edlc
 
 <br>
 
