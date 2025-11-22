@@ -81,53 +81,48 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-### 🌐 Frontend Development
+
+### 🌐 Desarrollo FrontEnd
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-### 🛠️ Herramientas y tecnologias
+
+### 🛠️ Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Sistemas Operativos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Estado Actual
 
-<div align="center">
-  <a href="https://github.com/henrydev-edlc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrydev-edlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev-edlc&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
+![Status](https://img.shields.io/badge/Code%20Status-Activo-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Aprendiendo-React%20%7C%20TypeScript-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Proyectos-En%20Desarrollo-orange?style=for-the-badge)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henrydev-edlc&theme=tokyonight" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <a href="https://github.com/henrydev-edlc">
-    <img src="https://github-profile-trophy.vercel.app/?username=henrydev-edlc&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=henrydev-edlc&theme=github-dark" alt="GitHub Activity Graph">
-</div>
 
 <br>
 
-## 🏅 Featured Projects
+## 🏅 Proyectos
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
