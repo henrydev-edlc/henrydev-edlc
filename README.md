@@ -1,18 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hola, Soy Enrique / Henrydev</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=38BDAE&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+%40bld.ai;Computer+Science+Student;Competitive+Programming+Expert;2x+ACPC+Finalist;Division+1+on+Codechef">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&color=38BDAE&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software+%40;Estudiante+de+Sistemas+Computacionales;Amante+de+los+Algoritmos;Transformando+Ideas+en+Código;Backend+,+Frontend+,+Base+de+Datos+MySQL">
+
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/7oSkaaa">
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://commits.top/egypt.html">
-    <img src="https://img.shields.io/badge/Top%20Egyptian%20Contributor-7oSkaaa-blue?style=flat" alt="Top Egyptian Contributor" />
-  </a>
-</div>
+
 
 <br>
 
@@ -41,25 +35,18 @@
 
 <br>
 
-## 🏆Perfiles de programación competitiva
+## 🏆 Competencias de Programación
 
 <div align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa">
-    <img src="https://img.shields.io/badge/Codeforces-Expert-blue?logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="https://leetcode.com/7oSkaa/">
-    <img src="https://img.shields.io/badge/LeetCode-7oSkaa-orange?logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://atcoder.jp/users/ahmed_7oSkaa">
-    <img src="https://img.shields.io/badge/AtCoder-4_Kyu-red?logo=atcoder&logoColor=white" alt="AtCoder">
-  </a>
-  <a href="https://www.codechef.com/users/ahmed_7oskaa">
-    <img src="https://img.shields.io/badge/CodeChef-5★-brown?logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9">
-    <img src="https://img.shields.io/badge/ICPC%20Global-Finalist-purple" alt="ICPC Global">
-  </a>
+
+  <!-- CodingCup 2025 -->
+  <img src="https://img.shields.io/badge/CodingCup-2025-black?style=for-the-badge" alt="CodingCup 2025">
+
+  <!-- ITSA Code Contest Internacional 2025 -->
+  <img src="https://img.shields.io/badge/ITSA%20Code%20Contest-Internacional%202025-blue?style=for-the-badge" alt="ITSA Code Contest Internacional 2025">
+
 </div>
+
 
 <br>
 
