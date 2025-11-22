@@ -55,18 +55,24 @@
 ## 🌐 Contactar conmigo
 
 <div align="center">
-  <a href="henrydev.edlc@gmail.com">
+
+  <!-- Gmail -->
+  <a href="mailto:henrydev.edlc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/7oskaa/">
+
+  <!-- LinkedIn (editar cuando me des tu URL real) -->
+  <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/henrydev-edlc">
+
+  <!-- GitHub -->
+  <a href="https://github.com/henrydev-edlc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
 </div>
 
-<br>
 
 ## 💻 Habilidades técnicas
 
