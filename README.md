@@ -113,11 +113,33 @@
 
 <br>
 
-## 📊 Estado Actual
+## 📊 Perfil Profesional
 
-![Status](https://img.shields.io/badge/Code%20Status-Activo-brightgreen?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Aprendiendo-React%20%7C%20TypeScript-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Proyectos-En%20Desarrollo-orange?style=for-the-badge)
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/student-male.png" width="80"/>
+        <h3>Estudiante ISC</h3>
+        <p>Enfocado en desarrollo de software y arquitectura web.</p>
+      </td>
+      <td align="center">
+  <img src="https://img.icons8.com/color/96/android-os.png" width="80"/>
+  <h3>Desarrollo Móvil con Android</h3>
+  <p>Creando aplicaciones móviles con Android Studio y Java/Kotlin.</p>
+</td>
+
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/database.png" width="80"/>
+        <h3>Bases de Datos</h3>
+        <p>Experiencia con MySQL y PostgreSQL en proyectos de Inventarios.</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 <br>
