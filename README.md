@@ -6,8 +6,6 @@
   </a>
 </p>
 
-
-
 <br>
 
 ## 👨‍💻 Sobre mi
@@ -40,12 +38,17 @@
 <div align="center">
 
   <!-- CodingCup 2025 -->
-  <img src="https://img.shields.io/badge/CodingCup-2025-black?style=for-the-badge" alt="CodingCup 2025">
+  <a href="https://raw.githubusercontent.com/henrydev-edlc/henrydev-edlc/main/certificaciones/CodingCup2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CodingCup-2025-black?style=for-the-badge" alt="CodingCup 2025">
+  </a>
 
   <!-- ITSA Code Contest Internacional 2025 -->
-  <img src="https://img.shields.io/badge/ITSA%20Code%20Contest-Internacional%202025-blue?style=for-the-badge" alt="ITSA Code Contest Internacional 2025">
+  <a href="https://raw.githubusercontent.com/henrydev-edlc/henrydev-edlc/main/certificaciones/ITSA2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/ITSA%20Code%20Contest-Internacional%202025-blue?style=for-the-badge" alt="ITSA Code Contest Internacional 2025">
+  </a>
 
 </div>
+
 
 
 <br>
