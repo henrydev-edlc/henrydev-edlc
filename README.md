@@ -125,12 +125,11 @@
         <p>Enfocado en desarrollo de software y arquitectura web.</p>
       </td>
       <td align="center">
-  <img src="https://img.icons8.com/color/96/android-os.png" width="80"/>
-  <h3>Desarrollo Móvil con Android</h3>
-  <p>Creando aplicaciones móviles con Android Studio y Java/Kotlin.</p>
-</td>
-
-      <td align="center">
+        <img src="https://img.icons8.com/color/96/android-os.png" width="80"/>
+        <h3>Desarrollo Móvil con Android</h3>
+        <p>Creando aplicaciones móviles con Android Studio y Java.</p>
+      </td>
+        <td align="center">
         <img src="https://img.icons8.com/color/96/database.png" width="80"/>
         <h3>Bases de Datos</h3>
         <p>Experiencia con MySQL y PostgreSQL en proyectos de Inventarios.</p>
@@ -139,6 +138,7 @@
   </table>
 
 </div>
+
 
 
 
