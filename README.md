@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hola, Soy Enrique / Henrydev</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&color=38BDAE&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software+%40;Estudiante+de+Sistemas+Computacionales;Amante+de+los+Algoritmos;Transformando+Ideas+en+Código;Backend+,+Frontend+,+Base+de+Datos+MySQL">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&color=38BDAE&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Estudiante+de+Sistemas+Computacionales;Amante+de+los+Algoritmos;Transformando+Ideas+en+Código;Backend+,+Frontend+,+Base+de+Datos+MySQL">
 
   </a>
 </p>
