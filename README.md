@@ -148,9 +148,9 @@
 
 ## 🏅 Proyectos
 
-| Project | Description | Technologies |
+| Proyecto | Descripción | Tecnologias |
 |---------|-------------|--------------|
-| **[Comprimidor PDF](https://github.com/henrydev-edlc/comprimidor-pdf)** | Herramienta para comprimir archivos PDF de forma local. | Java, Swing |
+| **[Comprimidor PDF](https://github.com/henrydev-edlc/comprimidor-pdf)** | Herramienta para comprimir archivos PDF de forma local. | Python  |
 | **[LeetCode Daily Challenge](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023)** | Daily coding challenges solutions | Python, Algorithms |
 | **[Competitive Programming Templates](https://github.com/7oSkaaa/CP-Templates)** | Collection of CP templates | C++, Algorithms |
 | **[VS Code for CP](https://github.com/7oSkaaa/VS-Code-for-CP)** | VS Code setup for competitive programming | C++, VS Code |
