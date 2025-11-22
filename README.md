@@ -160,7 +160,7 @@
 
 <br>
 
-## ✨ Inspiration
+## ✨ Inspiración
 > "Primero, resuelve el problema. Luego, escribe el código." - John Johnson
 
 <br>
