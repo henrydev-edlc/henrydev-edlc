@@ -57,9 +57,10 @@
 <div align="center">
 
   <!-- Gmail -->
-  <a href="mailto:henrydev.edlc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=henrydev.edlc@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
   <!-- LinkedIn (editar cuando me des tu URL real) -->
   <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
