@@ -14,20 +14,23 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 </div>
 
-- 🎓 **Formación académica**: Ingeniero en Sistemas Computacionales
-- 🚀 **Especializaciones**: 
-  - Desarrollo de [backend/frontend]
-  - Arquitectura de sistemas
+- 🎓 **Formación académica**: Estudiante de Ingenieria en Sistemas Computacionales
+- 🚀 **Áreas de enfoque**: 
+  - Desarrollo **FrontEnd** (JavaScript, TypeScript, React)
+  - Desarrollo **BackEnd** (Java,Python, PHP y MySQL)
+  - Arquitectura de sistemas como MVC (Java, PHP orientado a objetos)
 - ⚡ **Habilidades clave**: 
-  - Gestión de proyectos 
-  - Diseño e implementación de sistemas escalables
-  - Optimización de procesos 
+  - Diseño y desarrollo de aplicaciones web
+  - Modelado y normalización de bases de datos (1FN, 2FN, 3FN)
+  - Construcción de APIs y CRUDs
+  - Manejo de control de versiones con Git y GitHub
 - 🌱 **Aprendiendo actualmente**: 
-  - Programación Web
-  - Manejo de sistemas operativos como Linux
+  - Desarrollo Web (React, TypeScript)
+  - Programación Móvil (Kotlin, Java)
 - 🤔 **Intereses profesionales**: 
-  - Transformación digital empresarial
-  - Automatización de procesos
+  - Desarrollo de software y aplicaciones web
+  - Automatización de procesos y soluciones tecnológicas
+  - Diseño de interfaces
 - 📫 **Contacto profesional**: henrydev.edlc@gmail.com
 - 🌐 **Portafolio completo**: https://github.com/henrydev-edlc/henrydev-edlc
 
@@ -77,12 +80,14 @@
 
 ## 💻 Habilidades técnicas
 
-### 🧠 Programming Languages
+### 🧠 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
 
@@ -103,17 +108,24 @@
 
 ### 💻 Sistemas Operativos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+✔ Experiencia en Linux tanto en entorno **gráfico (GUI)** como **consola (CLI)**.
+
+
 
 ### 💻 IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 
 
 <br>
 
-## 📊 Perfil Profesional
+## 📊 Perfil como Desarrollador
 
 <div align="center">
 
@@ -140,8 +152,6 @@
 </div>
 
 
-
-
 <br>
 
 
@@ -149,7 +159,7 @@
 
 | Proyecto | Descripción | Tecnologias |
 |---------|-------------|--------------|
-| **[Comprimidor PDF](https://github.com/henrydev-edlc/comprimidor-pdf)** | Herramienta para comprimir archivos PDF de forma local. | Python  |
+| **[Comprimidor PDF](https://github.com/henrydev-edlc/comprimidor-pdf)** | Herramienta para comprimir archivos PDF de forma local. | Python, VS Code |
 | **[LeetCode Daily Challenge](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023)** | Daily coding challenges solutions | Python, Algorithms |
 | **[Competitive Programming Templates](https://github.com/7oSkaaa/CP-Templates)** | Collection of CP templates | C++, Algorithms |
 | **[VS Code for CP](https://github.com/7oSkaaa/VS-Code-for-CP)** | VS Code setup for competitive programming | C++, VS Code |
