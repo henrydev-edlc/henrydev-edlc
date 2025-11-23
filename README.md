@@ -159,7 +159,7 @@
 
 | Proyecto | Descripción | Tecnologias |
 |---------|-------------|--------------|
-| **[LeetCode Daily Challenge](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023)** | Daily coding challenges solutions | Python, Algorithms |
+| **[App web - torneo futbol](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023](https://github.com/henrydev-edlc/app-web-torneo-futbol))** |Aplicación web para gestionar torneos de fútbol, permitiendo registrar equipos, administrar partidos, generar clasificaciones y crear fases finales de forma automática.| HTML, CSS3, JS, PHP y BD|
 | **[Competitive Programming Templates](https://github.com/7oSkaaa/CP-Templates)** | Collection of CP templates | C++, Algorithms |
 | **[VS Code for CP](https://github.com/7oSkaaa/VS-Code-for-CP)** | VS Code setup for competitive programming | C++, VS Code |
 | **[Codeforces Sheet Generator](https://github.com/7oSkaaa/Codeforces-Sheet-Generator)** | Generate practice sheets from Codeforces | Python, Web Scraping |
