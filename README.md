@@ -19,6 +19,7 @@
   - Desarrollo **FrontEnd** (JavaScript, TypeScript, React)
   - Desarrollo **BackEnd** (Java,Python, PHP y MySQL)
   - Arquitectura de sistemas como MVC (Java, PHP orientado a objetos)
+  - Programación Móvil - Java
 - ⚡ **Habilidades clave**: 
   - Diseño y desarrollo de aplicaciones web
   - Modelado y normalización de bases de datos (1FN, 2FN, 3FN)
@@ -26,7 +27,7 @@
   - Manejo de control de versiones con Git y GitHub
 - 🌱 **Aprendiendo actualmente**: 
   - Desarrollo Web (React, TypeScript)
-  - Programación Móvil (Kotlin, Java)
+  - Programación Móvil - Kotlin
 - 🤔 **Intereses profesionales**: 
   - Desarrollo de software y aplicaciones web
   - Automatización de procesos y soluciones tecnológicas
