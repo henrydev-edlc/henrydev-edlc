@@ -172,6 +172,7 @@
 | **[Mantenimiento de Catalogos (Datos Personales y Inventario)](https://github.com/henrydev-edlc/mantenimiento-catalogos-datos-personales-y-inventario)** | Aplicación en Java con conexión a base de datos que permite administrar catálogos de datos personales e inventario. Incluye funciones para agregar, editar, eliminar y consultar registros de manera eficiente. | Java, Swing, PostgreSQL, JDBC, NetBeans |
 | **[Sistema de Control de Menores](https://github.com/henrydev-edlc/control-menores)** | Aplicación desarrollada en Java que gestiona el control de menores utilizando listas enlazadas. Implementa nodos y apuntadores para organizar, almacenar y manipular la información de manera dinámica. | Java, NetBeans |
 | **[VideoJuego Móvil - Lanza un dado](https://github.com/henrydev-edlc/videojuego-movil-lanzar-dados)** |App en Kotlin que simula el lanzamiento de un dado, mostrando una cara aleatorio entre 1 y 6.| Kotlin, Android Studio |
+| **[VideoJuego - Torres Hanoi](https://github.com/henrydev-edlc/videojuego-torres-hanoi)** |Videojuego desarrollado en Python  Torres - Hanoi con interfaces interactivas, donde el usuario puede elegir n cantidades de disco pera jugar| Python, VS Code |
 
 <br>
 
