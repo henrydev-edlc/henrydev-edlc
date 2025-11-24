@@ -159,12 +159,17 @@
 
 | Proyecto | Descripción | Tecnologias |
 |---------|-------------|--------------|
-| **[App web - torneo futbol](https://github.com/henrydev-edlc/app-web-torneo-futbol)** |Aplicación web para gestionar torneos de fútbol, permitiendo registrar equipos, administrar partidos, generar clasificaciones y crear fases finales de forma automática.| HTML, CSS3, JS, PHP y BD |
+| **[App Web - torneo futbol](https://github.com/henrydev-edlc/app-web-torneo-futbol)** |Aplicación web para gestionar torneos de fútbol, permitiendo registrar equipos, administrar partidos, generar clasificaciones y crear fases finales de forma automática.| HTML, CSS3, JS, PHP, MySQL y Git |
 | **[Competitive Programming Templates](https://github.com/7oSkaaa/CP-Templates)** | Collection of CP templates | C++, Algorithms |
-| **[Calculadora Web Version1](https://github.com/henrydev-edlc/calculadora-web-version1)** | Calculadora Web funcional sin prioridad de operadores | HTML, CSS3, TypeScript, VS Code |
-| **[Calculadora Web Version2](https://github.com/henrydev-edlc/calculadora-web-version2)** | Calculadora Web funcional con prioridad de operadores |  HTML, CSS3, TypeScript, VS Code |
-| **[CP Calendar](https://github.com/7oSkaaa/CP-Calendar)** | Competitive programming contests calendar | JavaScript, API |
+| **[Calculadora Web Version1](https://github.com/henrydev-edlc/calculadora-web-version1)** | Calculadora Web funcional sin prioridad de operadores | HTML, CSS3, TypeScript, VS Code y Git |
+| **[Calculadora Web Version2](https://github.com/henrydev-edlc/calculadora-web-version2)** | Calculadora Web funcional con prioridad de operadores |  HTML, CSS3, TypeScript, VS Code y Git |
+| **[Separador de Cargas Academicas](https://github.com/henrydev-edlc/separador-cargas-academicas)** | Aplicación en Python que divide un PDF de cargas académicas en documentos separados, asignando como nombre de archivo el número de control del estudiante. | Python, VS Code |
 | **[Comprimidor PDF](https://github.com/henrydev-edlc/comprimidor-pdf)** | Herramienta para comprimir archivos PDF de forma local. | Python, VS Code |
+| **[App Móvil - Figuras Geometricas](https://github.com/henrydev-edlc/app-geometria-movil)** | App móvil que te ayuda a calcular el área y el perímetro de la figura geométrica que elijas en el menú. | java, Android Studio |
+| **[VideoJuego Móvil - Adivina el número](https://github.com/henrydev-edlc/app-movil-adivina-numero)** | Aplicación móvil interactiva en la que el usuario debe adivinar un número generado aleatoriamente, con pistas que facilitan el reto. | Java, Android Studio |
+| **[Login y Cambio de Contraseña](https://github.com/henrydev-edlc/login-cambio-contrasenia)** | Programa en Java que permite a los usuarios iniciar sesión y modificar su contraseña, con respaldo en base de datos. | Java, Swing, MySQL, JDBC, NetBeans |
+| **[Mantenimiento de Catalogos (Datos Personales y Inventario)](https://github.com/henrydev-edlc/mantenimiento-catalogos-datos-personales-y-inventario)** | Aplicación en Java con conexión a base de datos que permite administrar catálogos de datos personales e inventario. Incluye funciones para agregar, editar, eliminar y consultar registros de manera eficiente. | Java, Swing, PostgreSQL, JDBC, NetBeans |
+| **[Sistema de Control de Menores](https://github.com/henrydev-edlc/control-menores)** | Aplicación desarrollada en Java que gestiona el control de menores utilizando listas enlazadas. Implementa nodos y apuntadores para organizar, almacenar y manipular la información de manera dinámica. | Java, NetBeans |
 
 <br>
 
