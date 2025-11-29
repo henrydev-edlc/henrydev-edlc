@@ -161,7 +161,7 @@
 | Proyecto | Descripción | Tecnologias |
 |---------|-------------|--------------|
 | **[App Web - torneo futbol](https://github.com/henrydev-edlc/app-web-torneo-futbol)** |Aplicación web para gestionar torneos de fútbol, permitiendo registrar equipos, administrar partidos, generar clasificaciones y crear fases finales de forma automática.| HTML, CSS3, JS, PHP, MySQL y Git |
-| **[Competitive Programming Templates](https://github.com/7oSkaaa/CP-Templates)** | Collection of CP templates | C++, Algorithms |
+| **[App Web - torneo de Clash Royale](https://github.com/henrydev-edlc/app-torneo-clash-royale)** | App Web para gestionar un torneo de Clash Royale | HTML, CSS3, JS |
 | **[Calculadora Web Version1](https://github.com/henrydev-edlc/calculadora-web-version1)** | Calculadora Web funcional sin prioridad de operadores | HTML, CSS3, TypeScript, VS Code y Git |
 | **[Calculadora Web Version2](https://github.com/henrydev-edlc/calculadora-web-version2)** | Calculadora Web funcional con prioridad de operadores |  HTML, CSS3, TypeScript, VS Code y Git |
 | **[Separador de Cargas Academicas](https://github.com/henrydev-edlc/separador-cargas-academicas)** | Aplicación en Python que divide un PDF de cargas académicas en documentos separados, asignando como nombre de archivo el número de control del estudiante. | Python, VS Code |
