@@ -173,6 +173,9 @@
 | **[Sistema de Control de Menores](https://github.com/henrydev-edlc/control-menores)** | Aplicación desarrollada en Java que gestiona el control de menores utilizando listas enlazadas. Implementa nodos y apuntadores para organizar, almacenar y manipular la información de manera dinámica. | Java, NetBeans |
 | **[VideoJuego Móvil - Lanza un dado](https://github.com/henrydev-edlc/videojuego-movil-lanzar-dados)** |App en Kotlin que simula el lanzamiento de un dado, mostrando una cara aleatorio entre 1 y 6.| Kotlin, Android Studio |
 | **[VideoJuego - Torres Hanoi](https://github.com/henrydev-edlc/videojuego-torres-hanoi)** |Videojuego desarrollado en Python  Torres - Hanoi con interfaces interactivas, donde el usuario puede elegir n cantidades de disco para jugar| Python, VS Code |
+| **[Secuencia de Fibonacci](https://github.com/henrydev-edlc/secuencia-fibonacci)** | Programa que calcula la secuencia de Fibonacci con el uso de recursividad| C++, VS Code |
+
+
 
 <br>
 
