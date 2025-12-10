@@ -174,6 +174,8 @@
 | **[VideoJuego Móvil - Lanza un dado](https://github.com/henrydev-edlc/videojuego-movil-lanzar-dados)** |App en Kotlin que simula el lanzamiento de un dado, mostrando una cara aleatorio entre 1 y 6.| Kotlin, Android Studio |
 | **[VideoJuego - Torres Hanoi](https://github.com/henrydev-edlc/videojuego-torres-hanoi)** |Videojuego desarrollado en Python  Torres - Hanoi con interfaces interactivas, donde el usuario puede elegir n cantidades de disco para jugar| Python, VS Code |
 | **[Secuencia de Fibonacci](https://github.com/henrydev-edlc/secuencia-fibonacci)** | Programa que calcula la secuencia de Fibonacci con el uso de recursividad| C++, VS Code |
+| **[App - Automatizacion de invernadero](https://github.com/henrydev-edlc/app-automatizacion-invernadero-python)** | Monitorea temperatura y humedad, genera reportes en Excel y controla ventanas automáticamente.| Python, VS Code y BD|
+| **[Programa que lee humedad y latemperatura]([https://github.com/henrydev-edlc/app-automatizacion-invernadero-python](https://github.com/henrydev-edlc/automatizacion-ventanas-invernadero-arduino1))** | Lee valores de temperatura y humedad con sensor DHT22 y los muestra en pantalla en tiempo real.| C++, Arduino 1|
 
 
 
