@@ -140,7 +140,7 @@
       <td align="center">
         <img src="https://img.icons8.com/color/96/android-os.png" width="80"/>
         <h3>Desarrollo Móvil con Android</h3>
-        <p>Creando aplicaciones móviles con Android Studio y Java.</p>
+        <p>Creando aplicaciones móviles en Android Studio con Kotlin y Java.</p>
       </td>
         <td align="center">
         <img src="https://img.icons8.com/color/96/database.png" width="80"/>
