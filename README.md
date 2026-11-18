@@ -13,8 +13,6 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 </div>
 
-## 👨‍💻 Sobre mí
-
 Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquitecturas de microservicios. Mi stack principal es **Java, Spring Boot y Spring Cloud**, complementado con **Python y FastAPI**.
 
 - 🎓 **Formación académica:** Egresado de Ingeniería en Sistemas Computacionales.
