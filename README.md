@@ -82,18 +82,15 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 
 ### 🧠 Lenguajes de programación
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,kotlin&theme=dark" alt="Lenguajes de programación: Java, Python, TypeScript, JavaScript, C++, Kotlin" /></a>
+</p>
 
 ### ⚙️ Backend y Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" alt="Spring Boot y FastAPI" /></a>&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+</p>
 
 ### 🏗️ Arquitectura y Seguridad
 
@@ -105,29 +102,27 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 
 ### 🗄️ Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Bases de datos: MySQL, PostgreSQL, MongoDB" /></a>
+</p>
 
 ### ☁️ Cloud, DevOps e Infraestructura
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp&theme=dark" alt="Cloud, DevOps e Infraestructura: Docker, Kubernetes, Google Cloud" /></a>
+</p>
 
 ### 📨 Mensajería y Observabilidad
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" /></a>&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
 
 ### 🛠️ Herramientas de desarrollo
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+<p>
+  <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, Postman" /></a>&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+</p>
 
 ## 📊 Perfil como Desarrollador
 
