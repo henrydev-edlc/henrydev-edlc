@@ -156,7 +156,8 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Microservicios Ecommerce](https://github.com/henrydev-edlc/microservices-ecommerce) | Plataforma de e-commerce distribuida con API Gateway, Service Discovery, Config Server, servicios de producto, órdenes, inventario y notificaciones, mensajería asíncrona con RabbitMQ, observabilidad con OpenTelemetry y stack LGMT, y despliegue en Docker y Kubernetes. | Java, Spring Boot, Spring Cloud, RabbitMQ, OpenTelemetry, LGMT, Docker, Kubernetes || [Sistema de autenticación](URL) | Microservicio de autenticación y validación de usuarios mediante JWT. | FastAPI, Firebase, JWT |
+| [Microservicios Ecommerce](https://github.com/henrydev-edlc/microservices-ecommerce) | Plataforma de e-commerce distribuida con API Gateway, Service Discovery, Config Server, servicios de producto, órdenes, inventario y notificaciones, mensajería asíncrona con RabbitMQ, observabilidad con OpenTelemetry y stack LGMT, y despliegue en Docker y Kubernetes. | Java, Spring Boot, Spring Cloud, RabbitMQ, OpenTelemetry, LGMT, Docker, Kubernetes |
+| [Sistema de autenticación](URL) | Microservicio de autenticación y validación de usuarios mediante JWT. | FastAPI, Firebase, JWT |
 | [Gestión de Libros API](https://github.com/henrydev-edlc/gestion-libros-api) | API REST para gestión de biblioteca con buscador unificado, validaciones personalizadas, pruebas en JUnit 5 y despliegue contenedorizado con MySQL. | Java, Spring Boot, MySQL, Docker |
 | [Control de Menores](https://github.com/henrydev-edlc/control-menores) | Aplicación desarrollada en Java para la gestión y control de registros de menores, implementada desde cero mediante estructuras de datos dinámicas basadas en listas enlazadas (manejo manual de nodos y referencias). | Java, Estructuras de Datos (Listas Enlazadas) |
 
