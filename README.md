@@ -20,7 +20,7 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 - ☁️ **Tecnologías complementarias:** Docker, Kubernetes, Google Cloud Platform y RabbitMQ.
 - 🌱 **Aprendiendo actualmente:** Agentes de Inteligencia Artificial y arquitecturas basadas en LLMs.
 - 🎯 **Intereses:** Arquitectura de software, sistemas distribuidos y soluciones Cloud Native.
-- 📫 **Contacto:** [henrydev.edlc@gmail.com](mailto:henrydev.edlc@gmail.com)
+- 📄 **CV Web:** [Ver CV Interactivo](https://cv-web-liard.vercel.app/#contacto)
 - 🌐 **Portafolio:** [GitHub](https://github.com/henrydev-edlc)
 
 <br>
