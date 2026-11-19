@@ -165,17 +165,18 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Gestión de torneos de fútbol](URL) | Administración de equipos, partidos y clasificaciones. | PHP, MySQL, JavaScript |
-| [Automatización de invernadero](URL) | Monitoreo de temperatura y humedad y generación de reportes. | Python, Arduino |
-| [Comprimidor PDF](URL) | Herramienta local para comprimir documentos PDF. | Python |
+| [Separador de Cargas Académicas](https://github.com/henrydev-edlc/separador-cargas-academicas) | Script de automatización en Python para el procesamiento, segmentación y renombrado dinámico de documentos PDF por identificador de alumno. | Python, Procesamiento PDF |
+| [Countries Explorer](https://github.com/henrydev-edlc/countries-explorer-frontend) | Aplicación web para consulta y comparación de datos de países mediante consumo de APIs REST, desplegada en contenedor Docker. | TypeScript, React, Material UI, Docker |
+| [Mantenimiento de Catálogos e Inventario](https://github.com/henrydev-edlc/mantenimiento-catalogos-datos-personales-y-inventario) | Sistema en Java para la administración CRUD de catálogos de datos personales e inventario con persistencia en base de datos. | Java, SQL |
 
 ## 🎓 Proyectos académicos y algoritmia
 
 | Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Torres de Hanoi](URL) | Juego interactivo basado en el algoritmo de Torres de Hanoi. | Python |
-| [Secuencia de Fibonacci](URL) | Implementación de la secuencia Fibonacci mediante recursividad. | C++ |
-| [Sistema de control de menores](URL) | Gestión de registros utilizando listas enlazadas. | Java |
+| :--- | :--- | :--- |
+| [Control de Menores](https://github.com/henrydev-edlc/control-menores) | Sistema en Java para la gestión de registros implementado desde cero mediante estructuras de datos dinámicas basadas en listas enlazadas (nodos y referencias). | Java, Estructuras de Datos |
+| [Gestión de Catálogos e Inventario](https://github.com/henrydev-edlc/mantenimiento-catalogos-datos-personales-y-inventario) | Aplicación en Java para la administración CRUD de catálogos de datos personales e inventario con persistencia en base de datos relacional. | Java, SQL |
+| [Login y Gestión de Contraseñas](https://github.com/henrydev-edlc/login-cambio-contrasenia) | Módulo en Java conectado a base de datos para la validación de acceso de usuarios y actualización segura de credenciales. | Java, SQL |
+| [Torres de Hanói](https://github.com/henrydev-edlc/videojuego-torres-hanoi) | Implementación interactiva del problema clásico de Torres de Hanói enfocada en lógica recursiva, manejo de pilas y validación de movimientos. | Python, Recursividad |
 
 <br>
 
