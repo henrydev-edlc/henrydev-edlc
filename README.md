@@ -16,7 +16,6 @@
 Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquitecturas de microservicios. Mi stack principal es **Java, Spring Boot y Spring Cloud**, complementado con **Python y FastAPI**.
 
 - 🎓 **Formación académica:** Egresado de Ingeniería en Sistemas Computacionales.
-- 🚀 **Enfoque profesional:** Desarrollo Backend, diseño de APIs REST y arquitectura de microservicios.
 - 🏗️ **Conocimientos:** Diseño de sistemas, integración de servicios, seguridad y persistencia de datos.
 - ☁️ **Tecnologías complementarias:** Docker, Kubernetes, Google Cloud Platform y RabbitMQ.
 - 🌱 **Aprendiendo actualmente:** Agentes de Inteligencia Artificial y arquitecturas basadas en LLMs.
