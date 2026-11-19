@@ -137,7 +137,7 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
       <td align="center" width="50%">
         <img src="https://img.icons8.com/color/96/database.png" width="80"/>
         <h3>Bases de Datos</h3>
-        <p>Experiencia con MySQL, PostgreSQL y MongoDB en proyectos de alto impacto.</p>
+        <p>Experiencia con MySQL, PostgreSQL y MongoDB en sistemas escalables y microservicios.</p>
       </td>
     </tr>
   </table>
