@@ -184,12 +184,15 @@ Desarrollador Backend enfocado en el diseño y desarrollo de APIs REST y arquite
 <div align="center">
 
   <!-- Lenguajes en gráfico de pastel clásico (pie) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev-edlc&layout=pie&langs_count=6&theme=tokyonight&title_color=38BDAE&text_color=E2E8F0&border_color=1E293B" alt="Distribución de lenguajes en GitHub" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev-edlc&layout=pie&langs_count=6&card_width=460&theme=tokyonight&title_color=38BDAE&text_color=E2E8F0&border_color=1E293B" alt="Distribución de lenguajes en GitHub" height="190" />
 
   <!-- Racha de contribuciones -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henrydev-edlc&theme=tokyonight&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE&border=1E293B" alt="Racha de contribuciones en GitHub" height="190" />
 
 </div>
+
+<br>
+
 
 ## ✨ Inspiración
 > "Primero, resuelve el problema. Luego, escribe el código." - John Johnson
